@@ -1,0 +1,101 @@
+Network security
+Risk assessment
+Threat analysis
+Vulnerability assessment
+Incident response
+Penetration testing
+Security auditing
+Firewall configuration
+Intrusion detection systems (IDS)
+Intrusion prevention systems (IPS)
+Security information and event management (SIEM)
+Malware analysis
+Cryptography
+Data encryption
+Cloud security
+Identity and access management (IAM)
+Security policy development
+Regulatory compliance (e.g., GDPR, HIPAA)
+Endpoint security
+Security architecture
+Secure coding practices
+Mobile device security
+Wireless security
+Network segmentation
+Data loss prevention (DLP)
+Disaster recovery planning
+Business continuity planning
+Digital forensics
+Phishing detection and prevention
+Social engineering awareness
+Security awareness training
+Cyber threat intelligence
+Log analysis
+Application security
+Incident management
+Security awareness programs
+Security patch management
+Vulnerability management
+Compliance audits
+Threat modeling
+Business risk management
+System hardening
+Access control mechanisms
+Certificate management
+Security incident reporting
+Digital forensics
+Secure software development lifecycle (SDLC)
+Network monitoring
+Cybersecurity frameworks (e.g., NIST, ISO 27001)
+Understanding of TCP/IP protocols
+Database security
+IoT security
+Remote access security
+Privacy protection
+Script programming (e.g., Python, PowerShell)
+Security automation
+User behavior analytics
+Security governance
+Collaboration with law enforcement
+Security operations center (SOC) functions
+Knowledge of security tools (e.g., Nessus, Wireshark)
+Ethical hacking
+Application penetration testing
+Security assessments
+Threat hunting
+Security metrics and reporting
+Vulnerability scanning
+Patch management
+Software development security
+Data classification
+Multi-factor authentication (MFA)
+Knowledge of cyber laws
+Incident simulation exercises
+Cloud infrastructure security
+Secure API development
+Understanding of operating system security
+Knowledge of networking technologies
+Understanding of programming languages (e.g., C, Java)
+Security risk assessment methodologies
+Incident response planning
+Cybersecurity training and development
+Red teaming and blue teaming
+Understanding of blockchain security
+Secure remote work practices
+Change management in security
+Evaluation of security technologies
+Security lifecycle management
+Knowledge of ethical and legal issues in cybersecurity
+Data integrity measures
+System monitoring and logging
+Cybersecurity trends and developments
+Community and industry collaboration
+Cybersecurity incident communication
+Social media security
+Insider threat detection
+Security testing methodologies
+Phishing simulation and training
+Understanding of encryption algorithms
+Technical documentation skills
+Cybersecurity research and analysis
+Threat intelligence sharing
